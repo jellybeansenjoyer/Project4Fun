@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "470658390205",
+    "project_id": "project4fun-fdf51",
+    "storage_bucket": "project4fun-fdf51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470658390205:android:c065e1652e5a23cd343fd4",
+        "android_client_info": {
+          "package_name": "com.example.project4fun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470658390205-voaatslfqiu3a46jlgmsg8mgetfcatov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project4fun",
+            "certificate_hash": "63707c2cf5f9efcfe2758a892c017f1d1e1f0c0a"
+          }
+        },
+        {
+          "client_id": "470658390205-4n9vrha5hrkssunhr1r80b7534bn7elc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuJlut962KWiJL8Ko7-BBg3wUeqi56KJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470658390205-4n9vrha5hrkssunhr1r80b7534bn7elc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
